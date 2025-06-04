@@ -22,7 +22,7 @@ This Streamlit app allows users to:
 - Show the result as summary or answer
 
 ### 🖼 Screenshot
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](screenshot.png)
 
 ### 🔗 Resources
 - [GitHub Repo](https://github.com/elbazhazem/summarize_ask_pdf)
