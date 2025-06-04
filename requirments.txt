@@ -1,0 +1,5 @@
+openai
+pypfd2
+pdfplumber
+steamlit
+plotly
